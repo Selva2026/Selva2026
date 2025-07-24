@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend Technologies**
 
-- 📫 How to reach me <a href="mailto:selvapandi2024@gmail.com">**selvapandi2024@gmail**</a>
+- 📫 How to reach me <a href="mailto:selvapandi2024@gmail.com">**selvapandi2024@gmail.com**</a>
   
 - 🚩 Fun Fact: The first computer “bug” was an actual real-life bug🤔🖥
   
@@ -26,8 +26,8 @@
 
 <h2><b>Always Connect with Me</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/muthupandi-thamaraiselvam-2b0022124/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/thiru_cse_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/Thiru-cse'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://x.com/_AJAIY?t=ghuJFlm_LjLZDujXmoXl1A&s=09'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/Selva2026'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <br>
 <br>
 
