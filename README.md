@@ -52,8 +52,8 @@
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
 
 
-![Pandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuthuPandiExpertsIn&show_icons=true&theme=radical)
+![Pandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva2026&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuPandiExpertsIn&show_icons=true&theme=radical&layout=compact)](https://github.com/MuthuPandiExpertsIn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selva2026&show_icons=true&theme=radical&layout=compact)](https://github.com/Selva2026)
 
 <h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
