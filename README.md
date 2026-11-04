@@ -49,22 +49,36 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
+< h2 align="center">👨‍💻 My Combined GitHub Statistics</h2>
 
-👨‍💻 My Combined GitHub Statistics
-🚀 GitHub Account 1 – Selva2026
+<h3 align="center">🚀 Selva2026</h3>
 
-!Selva2026 Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Selva2026&show_icons=true&theme=radical" />
+</p>
 
-🚀 GitHub Account 2 – MuthuPandiExpertsIn
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selva2026&layout=compact&theme=radical" />
+</p>
 
-!MuthuPandiExpertsIn Stats
+<h3 align="center">🚀 MuthuPandiExpertsIn</h3>
 
-📊 Programming Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuthuPandiExpertsIn&show_icons=true&theme=radical" />
+</p>
 
-!Selva2026 Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuPandiExpertsIn&layout=compact&theme=radical" />
+</p>
 
-!MuthuPandiExpertsIn Languages
+<h3 align="center">🌟 Connect With Both Accounts</h3>
+
+<p align="center">
+<a href="https://github.com/Selva2026">Selva2026</a> |
+<a href="https://github.com/MuthuPandiExpertsIn">MuthuPandiExpertsIn</a>
+</p>
+
+<h3 align="center" style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
 ![Pandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva2026&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selva2026&show_icons=true&theme=radical&layout=compact)](https://github.com/Selva2026)
