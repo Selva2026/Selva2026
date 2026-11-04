@@ -51,7 +51,20 @@
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
 
+👨‍💻 My Combined GitHub Statistics
+🚀 GitHub Account 1 – Selva2026
 
+!Selva2026 Stats
+
+🚀 GitHub Account 2 – MuthuPandiExpertsIn
+
+!MuthuPandiExpertsIn Stats
+
+📊 Programming Languages
+
+!Selva2026 Languages
+
+!MuthuPandiExpertsIn Languages
 ![Pandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva2026&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selva2026&show_icons=true&theme=radical&layout=compact)](https://github.com/Selva2026)
